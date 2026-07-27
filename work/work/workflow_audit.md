@@ -62,3 +62,21 @@ Created a dedicated Claude Project for academic and technical work.
 * **Project Name:** Academic & Engineering Workspace
 * **Custom Instructions (System Prompt):**
   > *"You are my AI technical assistant. I am Deepak, an Artificial Intelligence & Machine Learning student and Data Analyst. My technical stack includes Python, SQL, Pandas, machine learning optimization algorithms, and workflow automation (n8n, Gumloop). Tone preference: Concise, direct, clear, and encouraging. Avoid unnecessary conversational fluff, florid adjectives, or lengthy disclaimers. Always prioritize actionable, cleanly formatted code and structured markdown. When explaining concepts, explain the 'why' behind solutions."*
+  
+
+ 
+ ## Part 2: Tool Setup & Academy Enrollment
+
+### 1. Account Status
+* **ChatGPT:** Active account set up.
+* **Claude (Anthropic):** Active account set up.
+* **Anthropic Academy:** Account created and enrolled in *AI Fluency: Framework & Foundations*.
+
+### 2. Course Progress
+* **Course:** AI Fluency: Framework & Foundations (Anthropic Academy)
+* **Status:** Enrolled & Completed **Module 1** (*Introduction to AI Collaboration & Prompting Foundations*).
+* **Key Takeaways:** 
+  - Learned the core framework for treating LLMs as capable interns rather than infallible search engines.
+  - Practiced giving clear context, roles, and constraints to minimize hallucination and direct outputs effectively.
+
+![Anthropic Academy Completion](images/academy_completion.png)
