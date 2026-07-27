@@ -80,3 +80,5 @@ Created a dedicated Claude Project for academic and technical work.
   - Practiced giving clear context, roles, and constraints to minimize hallucination and direct outputs effectively.
 
 ![Anthropic Academy Completion](images/academy_completion.png)
+
+![Claude Project Configuration](images/claude_project.png)
